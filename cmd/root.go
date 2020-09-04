@@ -38,5 +38,5 @@ import (
 		if item.isocode == x {
 			fmt.Println("Exists the currency is supported")
 		}
-    }
+	}
   }
